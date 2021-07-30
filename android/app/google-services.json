@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "346802902896",
+    "firebase_url": "https://fir-c9923.firebaseio.com",
+    "project_id": "fir-c9923",
+    "storage_bucket": "fir-c9923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346802902896:android:2721151be6d521bda6a1b5",
+        "android_client_info": {
+          "package_name": "com.keshav.socialApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346802902896-3o8upojvdljf9ga6oq0rosh5tkeqjsv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5cUwbmW1sYBtIuPNgbTd1y_Z8KgkOIVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346802902896-3o8upojvdljf9ga6oq0rosh5tkeqjsv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
